@@ -1,6 +1,6 @@
 # 👋 Hi there, this is Andy!
 
-**Senior Software Engineer** & Founder of the bootstrapped company [ertios](https://ertios.com). Characterised by a strong passion for automation, efficient code, and always keeping up with the latest C++ standard and best practices.
+**Senior Software Engineer** characterised by a strong passion for automation, efficient code, and always keeping up with the latest C++ standard and best practices.
 
 - 🎓 Bachelor of Computer Science, University of Peloponnese, department of Computer Engineering
 - 🌍 Based in **Piraeus, Greece**
