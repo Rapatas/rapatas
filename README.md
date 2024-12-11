@@ -27,7 +27,6 @@ My free time consists of delving into DevOps and Kubernetes in my homelab, as we
 
 ### 📫 How to reach me
 
-- Email: info@ertios.com
 - LinkedIn: [Andreas Rapatas](https://www.linkedin.com/in/andreas-rapatas/)
 - Website: https://rapatas.com
 
